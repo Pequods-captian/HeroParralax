@@ -180,6 +180,8 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    min-height: 400px;
+    position: relative;
 }
 
 .parallax-1 {
